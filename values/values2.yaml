@@ -26,5 +26,5 @@ deployment:
   port: 8444
 
 ingress:
-  hostPrefix:   #add your username here. Do not without spaces, underscores, special characters
+  hostPrefix: test   #add your username here. Do not without spaces, underscores, special characters
   # Use endpoint hostPrefix.saasdemos.controller.gorafay.net to access application web page.
